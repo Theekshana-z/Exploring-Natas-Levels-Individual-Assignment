@@ -1,4 +1,3 @@
-Certainly! Here's a sample `README.md` file you can use for your GitHub repository:
 
 ---
 
@@ -31,5 +30,3 @@ The `Natas.pdf` file provides detailed explanations and step-by-step solutions f
 * **Level 6 and beyond**: Advanced challenges involving encoding, encryption, and more.
 
 ---
-
-Feel free to customize this template further to better fit your project's specifics.
